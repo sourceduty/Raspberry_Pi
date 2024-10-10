@@ -42,6 +42,8 @@ In addition to performance gains, clustering Pis for offline GPTs provides a mod
 [Microcontroller Boards](https://github.com/sourceduty/Microcontroller_Boards)
 <br>
 [IoT Hacker](https://github.com/sourceduty/IoT_Hacker)
+<br>
+[Flipper Zero Simulator](https://github.com/sourceduty/Flipper_Zero_Simulator)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
