@@ -29,55 +29,45 @@ In addition to performance gains, clustering Pis for offline GPTs provides a mod
 #
 ### AI-Pi Projects
 
-1. **Offline Voice Assistant**
-   
-   - Personal voice assistant for reminders, questions, and home control
-   - Requires USB microphone, speakers, and GGUF model for NLP
+1. Offline Voice Assistant
+- Personal voice assistant for reminders, questions, and home control
+- Requires USB microphone, speakers, and GGUF model for NLP
 
-3. **Home Security Surveillance with Anomaly Detection**
-   
-   - Monitors camera feeds for suspicious activities
-   - Needs camera module, OpenCV, and GGUF model for object detection
+2. Home Security Surveillance with Anomaly Detection
+- Monitors camera feeds for suspicious activities
+- Needs camera module, OpenCV, and GGUF model for object detection
 
-4. **Offline Translator Device**
-   
-   - Translates basic phrases without internet
-   - Uses touchscreen, TTS output, and GGUF model for translation
+3. Offline Translator Device
+- Translates basic phrases without internet
+- Uses touchscreen, TTS output, and GGUF model for translation
 
-5. **Educational Q&A System for Offline Learning**
-   
-   - Answers student questions on various topics offline
-   - Requires keyboard/touchscreen, GGUF model, and educational resources
+4. Educational Q&A System for Offline Learning
+- Answers student questions on various topics offline
+- Requires keyboard/touchscreen, GGUF model, and educational resources
 
-6. **Offline Code Assistant**
-   
-   - Suggests code snippets and helps troubleshoot errors
-   - Uses text input/output and GGUF model trained on programming languages
+5. Offline Code Assistant
+- Suggests code snippets and helps troubleshoot errors
+- Uses text input/output and GGUF model trained on programming languages
 
-7. **Offline Personal Journal and Mood Tracker**
-   
-   - Analyzes journal entries for mood tracking
-   - Requires text input and GGUF model for sentiment analysis
+6. Offline Personal Journal and Mood Tracker
+- Analyzes journal entries for mood tracking
+- Requires text input and GGUF model for sentiment analysis
 
-8. **Offline Recipe Recommendation System**
-   
-   - Suggests recipes based on available ingredients
-   - Uses ingredient input (keyboard/barcode scanner) and GGUF model
+7. Offline Recipe Recommendation System
+- Suggests recipes based on available ingredients
+- Uses ingredient input (keyboard/barcode scanner) and GGUF model
 
-9. **Offline News Summarizer**
-   
-   - Summarizes stored articles or documents on demand
-   - Needs local storage, text interface, and GGUF model for summarization
+8. Offline News Summarizer
+- Summarizes stored articles or documents on demand
+- Needs local storage, text interface, and GGUF model for summarization
 
-10. **Natural Disaster Information Hub**
-    
-   - Provides safety advice and info on natural disasters
-   - Requires battery backup, GGUF model, and emergency info storage
+9. Natural Disaster Information Hub
+- Provides safety advice and info on natural disasters
+- Requires battery backup, GGUF model, and emergency info storage
 
-11. **Interactive Fiction Game with AI**
-    
-   - Text-based adventure game with dynamic AI responses
-   - Uses keyboard, display, and GGUF model for interactive storytelling
+10. Interactive Fiction Game with AI
+- Text-based adventure game with dynamic AI responses
+- Uses keyboard, display, and GGUF model for interactive storytelling
 
 #
 ### Related Links
