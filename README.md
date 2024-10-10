@@ -27,6 +27,49 @@ Clustering multiple Raspberry Pis to run offline GPT models can significantly en
 In addition to performance gains, clustering Pis for offline GPTs provides a modular and flexible setup that can be easily adapted or expanded as needed. A small cluster of Raspberry Pis can support applications like localized voice assistants in public spaces, educational kiosks, or even disaster information hubs that provide multiple users with simultaneous access to information or services. This setup also enables experimentation with distributed AI processing techniques, such as parameter-sharing and model partitioning, where different sections of a model are processed on separate devices. For AI enthusiasts and developers, clustering offers a cost-effective alternative to more expensive hardware solutions, while demonstrating the feasibility of creating powerful, localized AI systems using affordable and accessible technology. This ability to scale and customize allows users to create a highly adaptable AI infrastructure that can evolve with their needs and potentially power larger offline projects in resource-constrained environments.
 
 #
+### AI-Pi Projects
+
+1. **Offline Voice Assistant**
+   - Personal voice assistant for reminders, questions, and home control
+   - Requires USB microphone, speakers, and GGUF model for NLP
+
+2. **Home Security Surveillance with Anomaly Detection**
+   - Monitors camera feeds for suspicious activities
+   - Needs camera module, OpenCV, and GGUF model for object detection
+
+3. **Offline Translator Device**
+   - Translates basic phrases without internet
+   - Uses touchscreen, TTS output, and GGUF model for translation
+
+4. **Educational Q&A System for Offline Learning**
+   - Answers student questions on various topics offline
+   - Requires keyboard/touchscreen, GGUF model, and educational resources
+
+5. **Offline Code Assistant**
+   - Suggests code snippets and helps troubleshoot errors
+   - Uses text input/output and GGUF model trained on programming languages
+
+6. **Offline Personal Journal and Mood Tracker**
+   - Analyzes journal entries for mood tracking
+   - Requires text input and GGUF model for sentiment analysis
+
+7. **Offline Recipe Recommendation System**
+   - Suggests recipes based on available ingredients
+   - Uses ingredient input (keyboard/barcode scanner) and GGUF model
+
+8. **Offline News Summarizer**
+   - Summarizes stored articles or documents on demand
+   - Needs local storage, text interface, and GGUF model for summarization
+
+9. **Natural Disaster Information Hub**
+   - Provides safety advice and info on natural disasters
+   - Requires battery backup, GGUF model, and emergency info storage
+
+10. **Interactive Fiction Game with AI**
+   - Text-based adventure game with dynamic AI responses
+   - Uses keyboard, display, and GGUF model for interactive storytelling
+
+#
 ### Related Links
 
 [Electronic Simulator](https://github.com/sourceduty/Electronic_Simulator)
