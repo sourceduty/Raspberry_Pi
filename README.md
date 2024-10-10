@@ -44,6 +44,8 @@ In addition to performance gains, clustering Pis for offline GPTs provides a mod
 [IoT Hacker](https://github.com/sourceduty/IoT_Hacker)
 <br>
 [Flipper Zero Simulator](https://github.com/sourceduty/Flipper_Zero_Simulator)
+<br>
+[Sugar Sensor](https://github.com/sourceduty/Sugar_Sensor)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
