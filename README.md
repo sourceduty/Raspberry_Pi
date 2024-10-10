@@ -29,7 +29,7 @@ In addition to performance gains, clustering Pis for offline GPTs provides a mod
 #
 ### Related Links
 
-[Electronic Simulator](https://chatgpt.com/g/g-409Bg1hAQ-electronic-simulator)
+[Electronic Simulator](https://github.com/sourceduty/Electronic_Simulator)
 <br>
 [Soil Analyzer](https://github.com/sourceduty/Soil_Analyzer)
 <br>
