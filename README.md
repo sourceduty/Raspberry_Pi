@@ -30,42 +30,52 @@ In addition to performance gains, clustering Pis for offline GPTs provides a mod
 ### AI-Pi Projects
 
 1. **Offline Voice Assistant**
+   
    - Personal voice assistant for reminders, questions, and home control
    - Requires USB microphone, speakers, and GGUF model for NLP
 
-2. **Home Security Surveillance with Anomaly Detection**
+3. **Home Security Surveillance with Anomaly Detection**
+   
    - Monitors camera feeds for suspicious activities
    - Needs camera module, OpenCV, and GGUF model for object detection
 
-3. **Offline Translator Device**
+4. **Offline Translator Device**
+   
    - Translates basic phrases without internet
    - Uses touchscreen, TTS output, and GGUF model for translation
 
-4. **Educational Q&A System for Offline Learning**
+5. **Educational Q&A System for Offline Learning**
+   
    - Answers student questions on various topics offline
    - Requires keyboard/touchscreen, GGUF model, and educational resources
 
-5. **Offline Code Assistant**
+6. **Offline Code Assistant**
+   
    - Suggests code snippets and helps troubleshoot errors
    - Uses text input/output and GGUF model trained on programming languages
 
-6. **Offline Personal Journal and Mood Tracker**
+7. **Offline Personal Journal and Mood Tracker**
+   
    - Analyzes journal entries for mood tracking
    - Requires text input and GGUF model for sentiment analysis
 
-7. **Offline Recipe Recommendation System**
+8. **Offline Recipe Recommendation System**
+   
    - Suggests recipes based on available ingredients
    - Uses ingredient input (keyboard/barcode scanner) and GGUF model
 
-8. **Offline News Summarizer**
+9. **Offline News Summarizer**
+   
    - Summarizes stored articles or documents on demand
    - Needs local storage, text interface, and GGUF model for summarization
 
-9. **Natural Disaster Information Hub**
+10. **Natural Disaster Information Hub**
+    
    - Provides safety advice and info on natural disasters
    - Requires battery backup, GGUF model, and emergency info storage
 
-10. **Interactive Fiction Game with AI**
+11. **Interactive Fiction Game with AI**
+    
    - Text-based adventure game with dynamic AI responses
    - Uses keyboard, display, and GGUF model for interactive storytelling
 
