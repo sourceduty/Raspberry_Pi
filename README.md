@@ -11,7 +11,7 @@ One of the key benefits of using a Raspberry Pi is the active community that sup
 #
 ### Tablet PCs
 
-![Tablet PC](https://github.com/user-attachments/assets/df56a301-e398-46b2-bb11-a407dd6f167e)
+![Tablet PCs](https://github.com/user-attachments/assets/1b48ecf2-84cf-4921-89ba-835227c78f42)
 
 The HEIGAOLAPC Mini PC and the Raspberry Pi 5 cater to different segments of the computing market, each offering unique strengths. The HEIGAOLAPC Mini PC is priced around $299 USD and approximately $399 CAD, making it a fully functional desktop computer powered by an Intel Celeron J4125 processor. This pricing positions it as an affordable solution for general computing tasks such as web browsing, word processing, and media playback. In contrast, the Raspberry Pi 5 is significantly more budget-friendly, retailing for about $95 USD and around $135 CAD for the base model. The Raspberry Pi is designed as a low-cost, versatile single-board computer primarily aimed at hobbyists, educators, and developers. While the Raspberry Pi excels in flexibility for projects and learning, the HEIGAOLAPC provides a more traditional desktop experience with a complete operating system out of the box.
 
