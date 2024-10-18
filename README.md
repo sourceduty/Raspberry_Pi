@@ -1,4 +1,4 @@
-![Raspberry Pi 5](https://github.com/user-attachments/assets/5d874560-d749-498a-83ed-520c404f30a3)
+![Blueberry Pi](https://github.com/user-attachments/assets/2b33b865-c955-47e8-866e-249abf998b93)
 
 > Raspberry Pi (Rpi) single-board computers.
 
@@ -79,6 +79,9 @@ In addition to performance gains, clustering Pis for offline GPTs provides a mod
 10. Interactive Fiction Game with AI
 - Text-based adventure game with dynamic AI responses
 - Uses keyboard, display, and GGUF model for interactive storytelling
+
+#
+![Raspberry Pi 5](https://github.com/user-attachments/assets/5d874560-d749-498a-83ed-520c404f30a3)
 
 #
 ### Related Links
