@@ -9,6 +9,33 @@ The Raspberry Pi (Rpi) is a compact, affordable, and highly versatile single-boa
 One of the key benefits of using a Raspberry Pi is the active community that supports it, contributing to an extensive repository of tutorials, software, and projects. This thriving ecosystem makes it easier for beginners to start learning programming and electronics while enabling seasoned developers to build and share advanced projects. The Rpi also supports numerous programming languages, including Python, C++, and Java, which broadens its applicability across different fields and skill levels. Additionally, the Raspberry Pi Foundation has released various models over the years, each offering different capabilities to cater to specific needs, such as the Raspberry Pi Zero for ultra-low-cost applications and the Raspberry Pi 4 for more performance-intensive tasks. Whether for education, prototyping, or deployment in practical applications, the Raspberry Pi remains an accessible, powerful tool for modern computing and electronic exploration.
 
 #
+### Competitors
+
+| Device              | CPU                           | RAM           | Storage                | GPU                     | Connectivity                  | Price Range               |
+|---------------------|-------------------------------|---------------|------------------------|--------------------------|-------------------------------|---------------------------|
+| Raspberry Pi 4       | Broadcom Cortex-A72 Quad-Core | 2GB, 4GB, 8GB | MicroSD, USB SSD        | VideoCore VI             | 2x micro-HDMI, USB 3.0, Wi-Fi, Bluetooth | $35 - $75                 |
+| Arduino (Uno)        | ATmega328P                    | 2KB SRAM      | Flash Memory (32KB)     | N/A                      | USB 2.0                       | $20 - $30                  |
+| BeagleBone Black     | AM335x 1GHz ARM Cortex-A8     | 512MB         | 4GB eMMC, MicroSD       | PowerVR SGX530            | USB, HDMI, Ethernet           | $50 - $60                  |
+| NVIDIA Jetson Nano   | Quad-Core ARM Cortex-A57      | 4GB           | MicroSD, M.2            | 128-core Maxwell          | Gigabit Ethernet, USB, Wi-Fi   | $99 - $130                 |
+| ODROID XU4           | Samsung Exynos 5422 Octa-Core | 2GB           | eMMC, MicroSD           | Mali-T628 MP6             | USB 3.0, Ethernet              | $50 - $80                  |
+| ASUS Tinker Board    | Rockchip RK3288 Quad-Core     | 2GB           | MicroSD, eMMC           | ARM Mali-T764             | Gigabit Ethernet, Wi-Fi        | $60 - $80                  |
+| Banana Pi M5         | Amlogic S905X3 Quad-Core      | 4GB           | MicroSD, eMMC           | Mali-G31 MP2              | Gigabit Ethernet, Wi-Fi        | $50 - $70                  |
+| Orange Pi 4          | Rockchip RK3399               | 4GB           | MicroSD, eMMC           | Mali-T860 MP4             | Gigabit Ethernet, Wi-Fi        | $50 - $90                  |
+| Rock Pi 4            | Rockchip RK3399               | 2GB, 4GB      | eMMC, MicroSD           | Mali-T860 MP4             | USB 3.0, Gigabit Ethernet, Wi-Fi | $60 - $100                |
+| LattePanda           | Intel Celeron N4100           | 4GB, 8GB      | eMMC, M.2, MicroSD      | Intel UHD Graphics 600    | USB 3.0, Wi-Fi, Gigabit Ethernet | $150 - $300               |
+| UDOO Bolt            | AMD Ryzen Embedded V1000      | 8GB, 16GB     | M.2, SATA, MicroSD      | AMD Radeon Vega 8/3       | USB 3.0, Wi-Fi, Gigabit Ethernet | $250 - $400               |
+| Pine64 RockPro64     | Rockchip RK3399               | 2GB, 4GB      | eMMC, MicroSD           | Mali-T860 MP4             | USB 3.0, Gigabit Ethernet      | $60 - $100                 |
+| Khadas VIM3          | Amlogic A311D                 | 2GB, 4GB      | eMMC, MicroSD           | Mali-G52 MP4              | USB 3.0, Gigabit Ethernet, Wi-Fi | $70 - $150                |
+| Libre Computer Board | Allwinner H6                  | 1GB, 2GB, 4GB | MicroSD, USB            | Mali-T720 MP2             | USB 3.0, Gigabit Ethernet      | $25 - $60                  |
+| NanoPi M4V2          | Rockchip RK3399               | 2GB, 4GB      | eMMC, MicroSD           | Mali-T860 MP4             | USB 3.0, Gigabit Ethernet, Wi-Fi | $60 - $80                 |
+| Le Potato            | Amlogic S905X                 | 1GB, 2GB, 4GB | MicroSD, USB            | Mali-450 MP               | USB 2.0, Gigabit Ethernet      | $25 - $50                  |
+| HummingBoard Pulse   | i.MX8M Quad-Core              | 2GB, 4GB      | eMMC, MicroSD           | Vivante GC7000Lite        | USB 3.0, Gigabit Ethernet      | $100 - $150                |
+
+This table provides a detailed comparison of popular single-board computers (SBCs) and microcontroller platforms that compete with the Raspberry Pi. The Raspberry Pi 4, which features a Broadcom Cortex-A72 quad-core processor and multiple RAM options (2GB, 4GB, 8GB), is known for its balance between performance, affordability, and connectivity options, including dual micro-HDMI, USB 3.0, Wi-Fi, and Bluetooth. Competitors like the NVIDIA Jetson Nano, with its powerful 128-core GPU, stand out for AI and machine learning tasks but come at a higher price point. Devices like the ODROID XU4 and ASUS Tinker Board offer similar performance for slightly lower costs, with powerful GPUs and adequate connectivity for hobbyists and professionals alike.
+
+For budget-conscious buyers or those with specific use cases, options like the Arduino Uno and Banana Pi M5 serve distinct purposes. The Arduino focuses on simple microcontroller tasks with limited RAM and storage, making it ideal for DIY electronics projects, while the Banana Pi M5 provides a more powerful processing platform for media servers or embedded computing. High-end boards like the UDOO Bolt and LattePanda target users needing full-fledged PC-like performance, with AMD Ryzen and Intel Celeron processors, but they come with significantly higher price tags. This wide variety of SBCs and microcontroller platforms allows users to select a device tailored to their project's needs, whether it's for simple automation, IoT development, or high-performance computing.
+
+#
 ### Tablet PCs
 
 ![Tablet PCs](https://github.com/user-attachments/assets/1b48ecf2-84cf-4921-89ba-835227c78f42)
@@ -105,6 +132,8 @@ In addition to performance gains, clustering Pis for offline GPTs provides a mod
 [Sugar Sensor](https://github.com/sourceduty/Sugar_Sensor)
 <br>
 [Local Offline AI](https://github.com/sourceduty/Local_Offline_AI)
+<br>
+[Retropie Le Potato](https://github.com/sourceduty/Retropie_Le_Potato)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
