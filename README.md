@@ -164,6 +164,8 @@ Projects utilizing microcontroller-based machine control often involve a blend o
 [Local Offline AI](https://github.com/sourceduty/Local_Offline_AI)
 <br>
 [Retropie Le Potato](https://github.com/sourceduty/Retropie_Le_Potato)
+<br>
+[Cluster Computing](https://github.com/sourceduty/Cluster_Computing)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
