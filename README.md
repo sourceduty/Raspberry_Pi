@@ -63,6 +63,19 @@ In scenarios where internet access is limited or unavailable, using offline GPT 
 Additionally, using the Raspberry Pi with offline models fosters innovation and experimentation for hobbyists, developers, and educators. The open-source nature of the Raspberry Pi and the flexibility of GGUF models allow users to customize and fine-tune AI applications to meet specific needs. For instance, a developer could create a personal coding assistant, a language translation tool, or an interactive game, all within a small, self-contained device. These projects not only enable a better understanding of AI but also encourage more efficient use of hardware resources. By leveraging the capabilities of the Raspberry Pi 5 and the GGUF model format, users can explore practical and creative uses of AI in an affordable, compact, and versatile platform, making advanced AI technology more accessible and empowering individuals to create impactful projects tailored to their unique requirements.
 
 #
+### Cluster Pi Projects
+
+![Pi Cluster](https://github.com/user-attachments/assets/1b2d3aae-5362-4919-b730-faa37f401bb4)
+
+Small-scale clusters, often made up of just a handful of Raspberry Pi or similar microcomputers, are popular for entry-level experimentation with distributed computing. Typically comprising two to four devices, these clusters provide an affordable way to explore the basics of networking, parallel processing, and fault tolerance on a smaller scale. Small clusters are commonly used in educational settings and by hobbyists to learn about the fundamentals of load balancing, task distribution, and redundancy. They serve well in testing environments, where developers can simulate microservices, create lightweight Kubernetes clusters, or run basic machine learning models. Projects like a two-node web server cluster or a small, self-hosted cloud can showcase practical applications of clustering, even at this limited scale.
+
+![Cluster](https://github.com/user-attachments/assets/95e26310-64f5-489c-b672-44d6a94c325d)
+
+Large-scale Pi clusters are networks of multiple Raspberry Pi single-board computers, interconnected to perform distributed computing tasks at a fraction of the cost of traditional server clusters. By combining the processing power of many low-cost Raspberry Pis, organizations and researchers can build highly parallel computing systems capable of handling intensive data processing, machine learning, or simulation tasks. Each Pi in the cluster works on a part of the problem, and they communicate through networking protocols, usually Ethernet, to share and sync data. These clusters are especially popular in educational settings and among hobbyists, where they offer a hands-on approach to learning about parallel computing, load balancing, and system administration without the prohibitive expense of larger systems.
+
+Several notable projects demonstrate the versatility of Pi clusters. The "Iridis-Pi" cluster, developed at the University of Southampton, consists of 64 Raspberry Pis and was used as a low-cost alternative to supercomputers for research purposes. Another popular project is the "PicoCluster," which combines multiple Raspberry Pis in a compact, stackable configuration designed for both learning and experimentation with cloud computing environments. These clusters are commonly applied to tasks like web hosting, distributed rendering, and even blockchain mining. By scaling up the number of Pis in a cluster, users can explore real-world applications of distributed computing at a fraction of the power consumption and cost associated with traditional setups, all while gaining valuable insights into how modern cloud-based systems are architected.
+
+#
 ### Clustered Offline GPTs
 
 ![Cluster](https://github.com/user-attachments/assets/c1c6518f-48e4-4284-baba-0a30613214bd)
