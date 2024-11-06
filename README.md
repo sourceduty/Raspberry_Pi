@@ -124,6 +124,11 @@ The Raspberry Pi can be adapted to work with a variety of household systems, inc
 Software libraries enhance the Pi's compatibility with systems typically found in household automation, allowing easy integration of sensors or controls for these devices. For instance, soil moisture sensors for garden irrigation systems, temperature and humidity sensors for HVAC monitoring, or proximity sensors for garage door automation can all be managed by the Pi using Python libraries. Even if the sensors were originally designed for microcontrollers like Arduino, the Raspberry Pi’s community has created libraries and tools, such as smbus for I2C and spidev for SPI communication, that facilitate direct interaction with these components. Using these tools, the Pi can control and monitor various household systems, transforming it into a centralized hub for automated management, providing smart scheduling, alerts, and remote control over everyday appliances and systems.
 
 #
+### OBD2 and Pi
+
+A Pi-Controlled OBD2 vehicle system is a custom-built diagnostic tool utilizing a Raspberry Pi to interface with a vehicle’s OBD2 (On-Board Diagnostics) port. This setup allows for real-time monitoring, data logging, and analysis of engine performance metrics, fault codes, and other vital vehicle diagnostics by leveraging the Raspberry Pi's processing capabilities and customizable software environment. With the addition of an OBD2 adapter, the Raspberry Pi can interpret vehicle data and send it to a connected display, smartphone, or cloud service for live monitoring or historical tracking. This DIY system is popular among enthusiasts for its affordability and flexibility, allowing for tailored features like automated alerts, GPS tracking, and performance tuning in a compact setup.
+
+#
 ![Raspberry Pi 5](https://github.com/user-attachments/assets/5d874560-d749-498a-83ed-520c404f30a3)
 #
 ![Wi-Fi Kettle](https://github.com/user-attachments/assets/235d69bc-af71-4bac-8a25-a8eab8134ded)
