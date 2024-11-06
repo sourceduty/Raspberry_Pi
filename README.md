@@ -115,6 +115,15 @@ In addition to performance gains, clustering Pis for offline GPTs provides a mod
 - Uses keyboard, display, and GGUF model for interactive storytelling
 
 #
+### Large Pi System Projects
+
+![Pi Controller](https://github.com/user-attachments/assets/9c1cbbf1-7d98-457a-a221-2da7ffcc5a1c)
+
+The Raspberry Pi can be adapted to work with a variety of household systems, including those not originally designed for smart control, like garage door openers, pool pumps, and even irrigation systems. By connecting to GPIO pins and using common communication protocols such as I2C, SPI, or UART, the Raspberry Pi can control relay modules, which act as switches for larger devices. For example, a relay can be used to remotely control a garage door opener, allowing the Pi to act as a smart home bridge, opening or closing the door through a mobile app or web interface. Similarly, the Pi can be used to automate a pool pump by connecting it through a relay or a smart switch, setting schedules or activating it remotely. Basic understanding of the required voltage levels and components (such as relays or level shifters) is key to ensuring safe integration of these systems with the Pi.
+
+Software libraries enhance the Pi's compatibility with systems typically found in household automation, allowing easy integration of sensors or controls for these devices. For instance, soil moisture sensors for garden irrigation systems, temperature and humidity sensors for HVAC monitoring, or proximity sensors for garage door automation can all be managed by the Pi using Python libraries. Even if the sensors were originally designed for microcontrollers like Arduino, the Raspberry Pi’s community has created libraries and tools, such as smbus for I2C and spidev for SPI communication, that facilitate direct interaction with these components. Using these tools, the Pi can control and monitor various household systems, transforming it into a centralized hub for automated management, providing smart scheduling, alerts, and remote control over everyday appliances and systems.
+
+#
 ![Raspberry Pi 5](https://github.com/user-attachments/assets/5d874560-d749-498a-83ed-520c404f30a3)
 
 #
