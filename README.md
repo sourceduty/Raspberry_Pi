@@ -126,7 +126,7 @@ Software libraries enhance the Pi's compatibility with systems typically found i
 #
 ![Raspberry Pi 5](https://github.com/user-attachments/assets/5d874560-d749-498a-83ed-520c404f30a3)
 #
-![Wi-Fi Kettle](https://github.com/user-attachments/assets/3370b8dd-4d04-49bd-87a8-a85a05cf9525)
+![Wi-Fi Kettle](https://github.com/user-attachments/assets/235d69bc-af71-4bac-8a25-a8eab8134ded)
 
 #
 ### Related Links
