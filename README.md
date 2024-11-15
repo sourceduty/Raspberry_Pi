@@ -168,6 +168,12 @@ One of the main challenges here is the software side. The Raspberry Pi would nee
 
 In practical terms, while this setup might be technically intriguing, it is extremely challenging to implement with the Raspberry Pi’s existing hardware and software capabilities. If the goal is to share or manage data between two Raspberry Pis, alternative methods like network-based solutions (e.g., NFS, Samba, or direct Ethernet connections) are much more feasible and reliable. These methods allow for high-speed data transfer and avoid the protocol mismatches and timing issues inherent in trying to emulate an SD card through GPIO. For a more advanced project, microcontrollers or devices specifically designed for SD card emulation might be better suited to achieve a similar outcome without the complexities of low-level SDIO emulation.
 
+#
+### Pi TTL and USB
+
+![USB TTL](https://github.com/user-attachments/assets/4b925d0d-187c-40df-8a6f-31e0db8dc257)
+
+USB and TTL serial connections are commonly used in Raspberry Pi hardware for communication with external devices. USB (Universal Serial Bus) is typically used to connect peripherals such as keyboards, mice, and USB-to-serial adapters to the Pi. TTL (Transistor-Transistor Logic) serial, on the other hand, is a more direct communication method that uses voltage levels (0V for LOW and 3.3V for HIGH) to transmit data between the Pi's GPIO pins and other devices. The Raspberry Pi provides UART (Universal Asynchronous Receiver-Transmitter) interfaces through its GPIO pins that can be used for TTL serial communication, often for tasks like debugging, programming microcontrollers, or interfacing with sensors and other embedded systems. USB-to-TTL adapters are widely used to bridge the two communication standards when a direct TTL connection is not possible.
 
 #
 ![Raspberry Pi 5](https://github.com/user-attachments/assets/5d874560-d749-498a-83ed-520c404f30a3)
