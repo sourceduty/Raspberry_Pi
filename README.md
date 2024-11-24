@@ -179,6 +179,8 @@ USB and TTL serial connections are commonly used in Raspberry Pi hardware for co
 [Retropie Le Potato](https://github.com/sourceduty/Retropie_Le_Potato)
 <br>
 [Cluster Computing](https://github.com/sourceduty/Cluster_Computing)
+<br>
+[Libre](https://github.com/sourceduty/Retropie_Le_Potato)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
