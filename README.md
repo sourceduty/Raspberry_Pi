@@ -29,6 +29,8 @@ CyberPi is a versatile microcomputer designed for educational purposes, blending
 
 What sets CyberPi apart is its emphasis on interactive learning and creativity. Its compact design makes it portable, while its rich set of features allows students to engage in hands-on projects that bridge theory and practice. Whether used in classrooms or independent study, CyberPi encourages experimentation, helping users develop critical thinking and problem-solving skills. The device's compatibility with hardware extensions and robotics kits further broadens its applications, enabling projects like automated systems or environmental monitoring. By merging accessibility and cutting-edge technology, CyberPi is an invaluable tool for inspiring the next generation of innovators.
 
+Makeblock is a leading Chinese technology company specializing in STEAM (Science, Technology, Engineering, Arts, and Mathematics) education solutions. Founded in 2011 and headquartered in Shenzhen, China, Makeblock is renowned for its innovative educational products, including programmable robots, coding platforms, and DIY kits designed to foster creativity and problem-solving skills. The company’s mission is to empower students, educators, and hobbyists worldwide through accessible technology, bridging the gap between learning and play. Makeblock’s products are popular not only in China but also globally, reflecting the country's growing influence in the educational technology sector. By combining cutting-edge hardware with user-friendly software, Makeblock represents China's commitment to advancing STEAM education and nurturing innovation on a global scale.
+
 #
 ### DB-9 (RS-232) Serial COM Ports
 
