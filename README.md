@@ -21,6 +21,15 @@ While the Raspberry Pi is primarily a single-board computer with a microprocesso
 There are many other single-board computers availble, such as the BeagleV Starlight, a RISC-V based development board that introduces an open-source architecture, ideal for those interested in exploring alternatives to ARM and x86 architectures. Boards like the Banana Pi M5, Orange Pi 5, and Radxa Rock 5 Model B offer considerable performance with ARM processors, large RAM capacities, and enhanced connectivity like Wi-Fi 6 and gigabit Ethernet, making them suitable for home automation, AI inference, or server projects. The inclusion of AI-optimized platforms like the NVIDIA Jetson Orin Nano demonstrates the growing demand for hardware capable of machine learning and artificial intelligence at the edge, particularly for robotics and autonomous systems development. This diversity of hardware options ensures that users can find a board that matches their project's performance needs, budget, and technical requirements.
 
 #
+### CyberPi
+
+![CyberPi](https://github.com/user-attachments/assets/141db560-8b44-4927-a0f6-051dfa39bf22)
+
+CyberPi is a versatile microcomputer designed for educational purposes, blending programming, electronics, and artificial intelligence in a compact, user-friendly device. It features a powerful processor, multiple sensors, a colorful display, and built-in Wi-Fi capabilities, enabling seamless integration into coding and robotics projects. With CyberPi, learners can explore programming languages such as Python and Scratch, making it suitable for beginners and advanced users alike. Its adaptability allows it to support various STEM activities, from data collection and visualization to robotics and IoT applications. The device is part of the mBlock ecosystem, which enhances learning by providing an intuitive platform for coding and project management.
+
+What sets CyberPi apart is its emphasis on interactive learning and creativity. Its compact design makes it portable, while its rich set of features allows students to engage in hands-on projects that bridge theory and practice. Whether used in classrooms or independent study, CyberPi encourages experimentation, helping users develop critical thinking and problem-solving skills. The device's compatibility with hardware extensions and robotics kits further broadens its applications, enabling projects like automated systems or environmental monitoring. By merging accessibility and cutting-edge technology, CyberPi is an invaluable tool for inspiring the next generation of innovators.
+
+#
 ### DB-9 (RS-232) Serial COM Ports
 
 ![DB-9 (RS-232)](https://github.com/user-attachments/assets/c7570637-16ba-4edc-8d64-70353bbd35ea)
